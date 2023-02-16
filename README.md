@@ -1,2 +1,2 @@
 # odin-recipes
-basic html
+basic html and css
